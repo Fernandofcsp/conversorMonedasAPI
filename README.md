@@ -43,6 +43,20 @@ Bajar el ejecutable .exe y arrancarlo.
 </div>
 
 
+## Estructura 💻
+src/main/java/com.example.conversormonedas/
+<ul>
+  <li><strong>EntryPoint.java:</strong> Manda llamar al gui para una compilación exitosa con maven.</li>
+  <li><strong>CurrencyConverterGUI.java:</strong> Interfaz de usuario para la aplicación de conversión de monedas.</li>
+  <li><strong>CurrencyConverter.java:</strong> Lógica para realizar las conversiones de moneda.</li>
+  <li><strong>CurrencyCoins.java:</strong> Gestión de la lista de monedas disponibles.</li>
+  <li><strong>Currency.java:</strong> Representación de una moneda individual.</li>
+  <li><strong>ExchangeRateAPI.java:</strong> Comunicación con una API externa para obtener tipos de cambio.</li>
+  <li><strong>ConversionRecord.java:</strong> Representación de un registro de conversión de moneda.</li>
+  <li><strong>ConversionHistory.java:</strong> Gestión del historial de conversiones de moneda.</li>
+</ul>
+
+**NOTA:** Dentro del IDE es posible ejecutar tanto EntryPoint como CurrencyConverterGUI, Entrypoint solo esta ahí para empaquetar correctamente el .exe con maven.
 
 
 
