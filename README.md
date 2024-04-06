@@ -2,6 +2,7 @@
 
 Este es un programa que hace peticiones a Exchange-RateAPI para saber las tasas de cambio entre diferentes monedas y aprovechar esa información para hacer conversiones entre diferentes tipos de monedas.
 
+![Animación](ConversorMonedas.gif)
 
 
 
