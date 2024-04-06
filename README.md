@@ -21,7 +21,7 @@ Si lo que buscas es compilarlo tu mismo y modificarlo, clona el repositorio y ab
 Asegurarse de tener Java instalado
 Bajar el ejecutable .exe y arrancarlo.
 
-Funciones
+### Funciones 📖
 El programa cuenta con:
 *Dos selectores de monedas
 *Boton para convertir
@@ -31,7 +31,9 @@ El programa cuenta con:
 *Boton para convertir
 *Lista de conversiones que se guarda y se lee en un .txt
 *Boton para Borrar el historial de conversiones
-![image](https://github.com/Fernandofcsp/conversorMonedasAPI/assets/73980852/2c987d50-c3f8-4056-a24f-dbc17088ab71)
+
+![image](https://github.com/Fernandofcsp/conversorMonedasAPI/assets/73980852/2c987d50-c3f8-4056-a24f-dbc17088ab71){ width=50% }
+
 
 
 ## Despliegue 📦
