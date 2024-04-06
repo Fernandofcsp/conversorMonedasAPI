@@ -4,6 +4,6 @@ module com.example.conversormonedas {
     requires com.google.gson;
     requires java.net.http;
 
-    opens com.example.conversormonedas to javafx.fxml;
+    opens com.example.conversormonedas to javafx.fxml, com.google.gson;
     exports com.example.conversormonedas;
 }
