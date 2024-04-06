@@ -1,7 +1,6 @@
 # Conversor de monedas
 
-Este es un programa que hace peticiones a Exchange-RateAPI para saber las tasas de cambio entre
-diferentes monedas y aprovechar esa información para hacer conversiones entre diferentes tipos de monedas.
+Este es un programa que hace peticiones a Exchange-RateAPI para saber las tasas de cambio entre diferentes monedas y aprovechar esa información para hacer conversiones entre diferentes tipos de monedas.
 
 
 
@@ -24,24 +23,25 @@ Asegurarse de tener Java instalado
 Bajar el ejecutable .exe y arrancarlo.
 
 ### Funciones 📖
-El programa cuenta con:
-*Selectores de monedas
 
-*Boton para convertir
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <ul>
+      <li>Selectores de monedas</li>
+      <li>Boton para convertir</li>
+      <li>Placeholder para la cantidad</li>
+      <li>Boton para invertir las monedas</li>
+      <li>Boton para borrar todo (resetear)</li>
+      <li>Boton para convertir</li>
+      <li>Lista de conversiones que se guarda y se lee en un .txt</li>
+      <li>Boton para Borrar el historial de conversiones</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://github.com/Fernandofcsp/conversorMonedasAPI/assets/73980852/2c987d50-c3f8-4056-a24f-dbc17088ab71" alt="image" style="width:200px;">
+  </div>
+</div>
 
-*Placeholder para la cantidad
-
-*Boton para invertir las monedas
-
-*Boton para borrar todo (resetear)
-
-*Boton para convertir
-
-*Lista de conversiones que se guarda y se lee en un .txt
-
-*Boton para Borrar el historial de conversiones
-
-![image](https://github.com/Fernandofcsp/conversorMonedasAPI/assets/73980852/2c987d50-c3f8-4056-a24f-dbc17088ab71){ width=200px }
 
 
 
