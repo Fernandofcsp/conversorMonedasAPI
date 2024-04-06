@@ -8,6 +8,7 @@ diferentes monedas y aprovechar esa información para hacer conversiones entre d
 ## Comenzando 🚀
 
 Si lo que buscas es probar el proyecto dentro de la carpeta target se encuentra el ejecutable .exe y el .jar
+
 Si lo que buscas es compilarlo tu mismo y modificarlo, clona el repositorio y abre el proyecto en IntelliJ o cualquier otro IDE que sea de tu agrado.
 
 
@@ -19,20 +20,29 @@ Si lo que buscas es compilarlo tu mismo y modificarlo, clona el repositorio y ab
 ### Instalación 🔧
 
 Asegurarse de tener Java instalado
+
 Bajar el ejecutable .exe y arrancarlo.
 
 ### Funciones 📖
 El programa cuenta con:
-*Dos selectores de monedas
+*Selectores de monedas
+
 *Boton para convertir
+
 *Placeholder para la cantidad
+
 *Boton para invertir las monedas
+
 *Boton para borrar todo (resetear)
+
 *Boton para convertir
+
 *Lista de conversiones que se guarda y se lee en un .txt
+
 *Boton para Borrar el historial de conversiones
 
-![image](https://github.com/Fernandofcsp/conversorMonedasAPI/assets/73980852/2c987d50-c3f8-4056-a24f-dbc17088ab71){ width=50% }
+![image](https://github.com/Fernandofcsp/conversorMonedasAPI/assets/73980852/2c987d50-c3f8-4056-a24f-dbc17088ab71){ width=200px }
+
 
 
 
