@@ -16,6 +16,7 @@ Si lo que buscas es compilarlo tu mismo y modificarlo, clona el repositorio y ab
 ### Pre-requisitos 📋
 
 *JAVA SDK 17
+
 *IDE (IntelliJ)
 
 ### Instalación 🔧
