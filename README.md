@@ -35,7 +35,6 @@ Bajar el ejecutable .exe y arrancarlo.
       <li>Placeholder para la cantidad</li>
       <li>Boton para invertir las monedas</li>
       <li>Boton para borrar todo (resetear)</li>
-      <li>Boton para convertir</li>
       <li>Lista de conversiones que se guarda y se lee en un .txt</li>
       <li>Boton para Borrar el historial de conversiones</li>
     </ul>
